@@ -1,7 +1,7 @@
 #topomap{
-	width: 1140px;
-	height: 840px;
-	background-color: rgb(237, 241, 245);
+    width: 1440px;
+    height: 1440px;
+    background-color: rgb(237, 245, 238);
 }
 svg {
 	cursor: move;
@@ -43,4 +43,14 @@ svg text.desc {
 	font-family: fantasy;
 	font-size: 10px;
 	font-weight: bolder
+}
+
+
+#title {
+    margin: 0 auto;
+    text-align: center;
+    padding: 43px;
+    font-size: 33px;
+	font-weight: bold;
+	color: #30B5C7;
 }
